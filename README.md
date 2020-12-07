@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/MaxiDeMichieli/MaxiDeMichieli/blob/main/banner.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
 <!--
 **MaxiDeMichieli/MaxiDeMichieli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
