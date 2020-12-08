@@ -2,7 +2,7 @@
   <img src="https://github.com/MaxiDeMichieli/MaxiDeMichieli/blob/main/banner.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-### Tech & Tools Preference
+## Tech & Tools Preference
 
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
@@ -19,7 +19,16 @@
 
 ---
 
-### Contact
+## Proyects
+
+- ### [Artística Dalí](https://artistica-dali.herokuapp.com)
+  e-commerce of artistic products
+- ### [Alkemy challenge](https://alkemy-challenge-front.herokuapp.com)
+  website to keep track of personal finances
+
+---
+
+## Contact
 
 [<img align="left" alt="MaxiDeMichieli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MaxiDeMichieli | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail] maxidemichieli@gmail.com
