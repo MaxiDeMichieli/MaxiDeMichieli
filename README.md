@@ -25,7 +25,8 @@
   e-commerce of artistic products
 - ### [Alkemy challenge](https://alkemy-challenge-front.herokuapp.com)
   website to keep track of personal finances
-
+- ### [Alkemy blog challenge](https://alkemy-blog.herokuapp.com/)
+  website to manage blog page
 ---
 
 ## Contact
