@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/MaxiDeMichieli/MaxiDeMichieli/blob/main/banner.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
 ## Tech & Tools Preference
 
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
